@@ -9,10 +9,10 @@ public class Main {
             try{
             num = scanner.nextDouble();
         }catch (Exception e){
-            System.out.printf(num + "is not a number");
+            System.out.printf(num + " is not a number");
             System.exit(0);
         }
-        System.out.printf(num + "is a number");
+        System.out.printf(num + " is a number");
 
 
 
